@@ -1,8 +1,8 @@
 <p align="center">
-  <strong>muoceon</strong>
+  <img src="assets/icon.svg" width="40" align="middle" alt=""> <strong>MuoCeon</strong>
 </p>
 
-<p align="center"><em>以猫之名，向世界敞开。<br>In the name of a cat, open to the world.</em></p>
+<p align="center"><em>以猫之名，向世界敞开。<br>In the name of a cat, open to the world.</em></p> 
 
 ---
 
