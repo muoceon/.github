@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_icon.svg" width="40" align="middle" alt=""> <strong>MuoCeon</strong>
+  <img src="../logo_icon.svg" width="40" align="middle" alt=""> <strong>MuoCeon</strong>
 </p>
 
 <p align="center"><em>以猫之名，向世界敞开。<br>In the name of a cat, open to the world.</em></p> 
