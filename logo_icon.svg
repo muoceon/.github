@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="MuoCeon">
+  <defs>
+    <linearGradient id="mcRing" x1="60" y1="60" x2="452" y2="452" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#0E7490"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 猫耳 -->
+  <path d="M158.5 100 L175 32 L230.4 73.8 Z" fill="url(#mcRing)" stroke="url(#mcRing)"
+        stroke-width="12" stroke-linejoin="round"/>
+  <path d="M353.5 100 L337 32 L281.6 73.8 Z" fill="url(#mcRing)" stroke="url(#mcRing)"
+        stroke-width="12" stroke-linejoin="round"/>
+
+  <!-- 身体：C 形圆环（缺口朝右） -->
+  <path d="M386.1 125.9 A184 184 0 1 0 386.1 386.1" fill="none"
+        stroke="url(#mcRing)" stroke-width="38" stroke-linecap="round"/>
+
+  <!-- 尾巴：从右下端出发，卷进怀里，沿底部绕到左下收尾 -->
+  <path d="M386.1 386.1 C 436 406, 470 362, 452 306
+           C 435 252, 392 282, 330 346
+           C 278 390, 196 388, 182 322"
+        fill="none" stroke="url(#mcRing)" stroke-width="30" stroke-linecap="round"/>
+
+  <!-- 怀里的小点 -->
+  <circle cx="256" cy="256" r="20" fill="#FFB020"/>
+</svg>
