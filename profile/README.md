@@ -23,8 +23,8 @@ An **open-first online organization**:
 
 ## Links
 
-- Website: <https://muoceon.net>
-- Email: `muoceon@e-mail.muoceon.net`
+- Website: <https://muoceon.com>
+- Email: `muoceon@email.muoceon.com`
 
 ---
 
